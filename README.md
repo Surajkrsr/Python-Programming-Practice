@@ -3,6 +3,9 @@ This repository contains my pythin practice question and solutions.
 
 
  Question 1 : Print natural number from 1 to n.
+ 
  Question 2 : WAP to find the maximum of three numbers.
- Question 3 : WAP to check if a list contains a pallindrome of elements.
+ 
+ Question 3 : WAP to check if a list contains a pallindrome of elements
+ 
  Question 4:  WAP to print elememts of a list in a single line.
